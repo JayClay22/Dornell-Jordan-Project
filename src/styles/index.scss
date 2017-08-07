@@ -1,0 +1,92 @@
+body{
+    background-color: #6A406F;
+}
+.topnav{
+    background-color: #F2BE11;
+    //background-color: #E3BBE4;
+    position: absolute;
+    top: 0px;
+    width: 90%;
+    height: 100px;
+    z-index: 9999;
+    margin-left: 100px;
+    a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 10px 80px;
+        text-decoration: none;
+        font-size: 30px;
+        &:hover{
+            background-color: #ddd;
+            color: #6A406F;
+        }
+    }
+    .hNav{
+        margin-left: 67px;
+    }
+}
+.hello{
+    position: absolute;
+    top: 121px;
+    left: 341px;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+    .stuff{
+        display: inline-block;
+        margin: -50px;
+    }
+}
+
+h2 {
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+    padding: 20px 250px;
+}
+.logo{
+    display: block;
+    position: relative;
+    height: 100px;
+    width: 200px;
+    z-index: 9999999;
+    overflow: hidden;
+} 
+
+
+
+ul{
+    margin-top: 38px;
+}
+
+
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+}
+.img1{
+    padding: 15px;
+    margin: 15px;
+}
+.chip img {
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.lavBox{
+    background-color: #E3BBE4;
+    margin: 15px;
+    margin-top: -20px;
+}
