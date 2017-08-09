@@ -31,7 +31,7 @@ body{
       color: #6A406F;
   }
 .topnav{
-    height: 150px;
+    height: 100px;
 }
 .logo{
     height: 100px;
@@ -42,7 +42,7 @@ body{
 }
 .navbar-nav{
      list-style-type: none;
-     margin-left: 60px;
+     margin-left: 80px;
 }
  
   h2 {
