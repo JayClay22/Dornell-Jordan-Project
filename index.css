@@ -31,19 +31,18 @@ body{
       color: #6A406F;
   }
 .topnav{
-    height: 100px;
+    height: 150px;
 }
 .logo{
     height: 100px;
-    position: absolute;
     margin: 0 90px 0 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 .navbar-nav{
      list-style-type: none;
-     margin-left: 30px;
-}
-#navbarNav{
-    padding-top: 23px;
+     margin-left: 60px;
 }
  
   h2 {
